@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: HideCompanionNames
+## Notes: Keeps friendly pet and companion names hidden between sessions.
+## Version: 1.0.0
+
+HideCompanionNames.lua
